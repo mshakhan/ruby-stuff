@@ -1,3 +1,9 @@
+#
+# Dummy singleton implementation
+#
+# Singleton is evil =)
+#
+
 module Singleton
   def self.append_features(base)
     super

@@ -1,2 +1,4 @@
 model.rb		Simple ActiveRecord::Base behaivour imitation
 console_colors.rb	Playing with linux console colorizing
+xml.rb			Ruby xml-building engine
+singleton.rb		Simple singleton implementation
