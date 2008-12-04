@@ -1,1 +1,2 @@
-model.rb	Simple ActiveRecord::Base behaivour imitation
+model.rb		Simple ActiveRecord::Base behaivour imitation
+console_colors.rb	Playing with linux console colorizing
